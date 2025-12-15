@@ -1,0 +1,5 @@
+{
+  "name": "ROS 2 Auto-Grader",
+  "description": "An automated testing suite for ROS 2 robotics packages. Includes static code analysis, safety validation, and a Gazebo simulation runner with the UR5e robotic arm.",
+  "requestFramePermissions": []
+}
